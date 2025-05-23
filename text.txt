@@ -1,0 +1,22 @@
+Project Idea: Task Manager API
+
+Features
+
+User Registration and Login (with hashed passwords & JWT)
+
+Create, Read, Update, Delete Tasks
+
+Each user can manage their own tasks
+
+Task fields: title, description, status (pending/complete), due date
+
+
+Tech Stack
+
+Node.js + Express: Backend and routing
+
+MongoDB + Mongoose: Data storage
+
+JWT: Authentication
+
+Postman: To test your APIs
